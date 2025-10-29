@@ -1,4 +1,47 @@
-[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   {
     "code": "HD4296-1",
     "name": "9185 PALILLOS PLASTICOS",
@@ -1078,5 +1121,22 @@
     "name": "ANILLO (UNIDAD)",
     "price": 1.1,
     "image": "../catalogo/HD673.jpeg"
-  }
-]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

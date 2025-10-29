@@ -1,4 +1,4 @@
-[
+
   {
     "code": "6852345547511",
     "name": "AM HIGH QUALITY MOSQUITO NET. MOSQUITERO",
@@ -1498,5 +1498,4 @@
     "name": "8PLUS TRANSPARENTE CH_CARCASA",
     "price": 1.0,
     "image": "../catalogo/HD1101.jpeg"
-  }
-]
+  },
