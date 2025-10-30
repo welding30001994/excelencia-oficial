@@ -1,0 +1,292 @@
+
+C:\Users\COLOMBOFILIA>CD EXCELENCIA
+
+C:\Users\COLOMBOFILIA\excelencia>git add .
+
+C:\Users\COLOMBOFILIA\excelencia>git commit -m "Primer commit"
+[main 845936b] Primer commit
+ 45 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 catalogo/HD1742.jpeg
+ create mode 100644 catalogo/HD1744.jpeg
+ create mode 100644 catalogo/HD1751.jpeg
+ create mode 100644 catalogo/HD3100.jpeg
+ create mode 100644 catalogo/HD3315.jpeg
+ create mode 100644 catalogo/HD3417.jpeg
+ create mode 100644 catalogo/HD3459.jpeg
+ create mode 100644 catalogo/HD3460.jpeg
+ create mode 100644 catalogo/HD3631.jpeg
+ create mode 100644 catalogo/HD3679.jpeg
+ create mode 100644 catalogo/HD3730.jpeg
+ create mode 100644 catalogo/HD4330.jpeg
+ create mode 100644 catalogo/HD451.jpeg
+ create mode 100644 catalogo/HD832.jpeg
+ create mode 100644 catalogo/HD869.jpeg
+ create mode 100644 catalogo/HD891.jpeg
+ create mode 100644 catalogo/HD939.jpeg
+ create mode 100644 catalogo/RFD251344.jpeg
+ create mode 100644 catalogo/RFD285525.jpeg
+ create mode 100644 catalogo/RFD285531.jpeg
+ create mode 100644 catalogo/RFD314967.jpeg
+ create mode 100644 catalogo/RFD323641.jpeg
+ create mode 100644 catalogo/RFD338566.jpeg
+ create mode 100644 catalogo/RFD356325.jpeg
+ create mode 100644 catalogo/RFD356347.jpeg
+ create mode 100644 catalogo/RFD357862.jpeg
+ create mode 100644 catalogo/RFD377037.jpeg
+ create mode 100644 catalogo/RFD388033.jpeg
+ create mode 100644 catalogo/RFD39310.jpeg
+ create mode 100644 catalogo/RFD398301.jpeg
+ create mode 100644 catalogo/RFD406065.jpeg
+ create mode 100644 catalogo/RFD415247.jpeg
+ create mode 100644 catalogo/RFD418785.jpeg
+ create mode 100644 catalogo/RFD424402.jpeg
+ create mode 100644 catalogo/RFD425908.jpeg
+ create mode 100644 catalogo/RFD430714.jpeg
+ create mode 100644 catalogo/RFD432511.jpeg
+ create mode 100644 catalogo/RFD432514.jpeg
+ create mode 100644 catalogo/RFD432603.jpeg
+ create mode 100644 catalogo/RFD85516.jpeg
+
+C:\Users\COLOMBOFILIA\excelencia>git push
+Enumerating objects: 52, done.
+Counting objects: 100% (52/52), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (45/45), done.
+Writing objects: 100% (45/45), 5.27 MiB | 2.02 MiB/s, done.
+Total 45 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/welding30001994/excelencia-oficial.git
+   90d4e17..845936b  main -> main
+
+C:\Users\COLOMBOFILIA\excelencia>git add .
+
+C:\Users\COLOMBOFILIA\excelencia>git commit -m "Primer commit"
+[main 4f36f60] Primer commit
+ 25 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 catalogo/55412234569.jpeg
+ create mode 100644 catalogo/89551548191.jpeg
+ create mode 100644 catalogo/HD2201.jpeg
+ create mode 100644 catalogo/HD250.jpeg
+ create mode 100644 catalogo/HD3167.jpeg
+ create mode 100644 catalogo/HD3168.jpeg
+ create mode 100644 catalogo/HD3427.jpeg
+ create mode 100644 catalogo/HD3797.jpeg
+ create mode 100644 catalogo/HD3803.jpeg
+ create mode 100644 catalogo/HD4038.jpeg
+ create mode 100644 catalogo/HD4043.jpeg
+ create mode 100644 catalogo/HD4093.jpeg
+ create mode 100644 catalogo/HD4104.jpeg
+ create mode 100644 catalogo/HD4112.jpeg
+ create mode 100644 catalogo/HD4113.jpeg
+ create mode 100644 catalogo/HD4117.jpeg
+ create mode 100644 catalogo/HD4118.jpeg
+ create mode 100644 catalogo/HD4128.jpeg
+ create mode 100644 catalogo/HD4204.jpeg
+ create mode 100644 catalogo/HD4213.jpeg
+ create mode 100644 catalogo/HD4314.jpeg
+ create mode 100644 catalogo/HD4323.jpeg
+ create mode 100644 catalogo/HD588.jpeg
+ create mode 100644 catalogo/RFD424214.jpeg
+
+C:\Users\COLOMBOFILIA\excelencia>git push
+Enumerating objects: 31, done.
+Counting objects: 100% (31/31), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (28/28), done.
+Writing objects: 100% (28/28), 3.56 MiB | 1.65 MiB/s, done.
+Total 28 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/welding30001994/excelencia-oficial.git
+   845936b..4f36f60  main -> main
+
+C:\Users\COLOMBOFILIA\excelencia>git add .
+
+C:\Users\COLOMBOFILIA\excelencia>git commit -m "Primer commit"
+[main 4bf735c] Primer commit
+ 16 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 catalogo/HD2076.jpeg
+ create mode 100644 catalogo/HD2375.jpeg
+ create mode 100644 catalogo/HD315.jpeg
+ create mode 100644 catalogo/HD3269.jpeg
+ create mode 100644 catalogo/HD3426.jpeg
+ create mode 100644 catalogo/HD3450.jpeg
+ create mode 100644 catalogo/HD3618.jpeg
+ create mode 100644 catalogo/HD3621.jpeg
+ create mode 100644 catalogo/HD3622.jpeg
+ create mode 100644 catalogo/HD3710.jpeg
+ create mode 100644 catalogo/HD3751.jpeg
+ create mode 100644 catalogo/HD3821.jpeg
+ create mode 100644 catalogo/HD4199.jpeg
+ create mode 100644 catalogo/HD4200.jpeg
+ create mode 100644 catalogo/RFD435796.jpeg
+ create mode 100644 catalogo/RFD46008.jpeg
+
+C:\Users\COLOMBOFILIA\excelencia>git push
+Enumerating objects: 21, done.
+Counting objects: 100% (21/21), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (19/19), done.
+Writing objects: 100% (19/19), 2.09 MiB | 1.14 MiB/s, done.
+Total 19 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/welding30001994/excelencia-oficial.git
+   4f36f60..4bf735c  main -> main
+
+C:\Users\COLOMBOFILIA\excelencia>git add .
+
+C:\Users\COLOMBOFILIA\excelencia>git commit -m "Primer commit"
+[main 7d67c31] Primer commit
+ 12 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 catalogo/HD1124.jpeg
+ create mode 100644 catalogo/HD118.jpeg
+ create mode 100644 catalogo/HD1200.jpeg
+ create mode 100644 catalogo/HD1307.jpeg
+ create mode 100644 catalogo/HD1332.jpeg
+ create mode 100644 catalogo/HD1354.jpeg
+ create mode 100644 catalogo/HD1459.jpeg
+ create mode 100644 catalogo/HD1460.jpeg
+
+C:\Users\COLOMBOFILIA\excelencia>git push
+Enumerating objects: 19, done.
+Counting objects: 100% (19/19), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (14/14), done.
+Writing objects: 100% (14/14), 1.32 MiB | 773.00 KiB/s, done.
+Total 14 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/welding30001994/excelencia-oficial.git
+   4bf735c..7d67c31  main -> main
+
+C:\Users\COLOMBOFILIA\excelencia>git add .
+
+C:\Users\COLOMBOFILIA\excelencia>git commit -m "Primer commit"
+[main c01f3e8] Primer commit
+ 9 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 catalogo/HD1125.jpeg
+ create mode 100644 catalogo/HD1140.jpeg
+ create mode 100644 catalogo/HD1142.jpeg
+ create mode 100644 catalogo/HD1214.jpeg
+ create mode 100644 catalogo/HD1309.jpeg
+ create mode 100644 catalogo/HD1352.jpeg
+ create mode 100644 catalogo/HD2464.jpeg
+ create mode 100644 catalogo/HD2466.jpeg
+
+C:\Users\COLOMBOFILIA\excelencia>git push
+Enumerating objects: 15, done.
+Counting objects: 100% (15/15), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (12/12), done.
+Writing objects: 100% (12/12), 1.59 MiB | 949.00 KiB/s, done.
+Total 12 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/welding30001994/excelencia-oficial.git
+   7d67c31..c01f3e8  main -> main
+
+C:\Users\COLOMBOFILIA\excelencia>git add .
+
+C:\Users\COLOMBOFILIA\excelencia>git commit -m "Primer commit"
+[main 97a43f0] Primer commit
+ 15 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 catalogo/HD1126.jpeg
+ create mode 100644 catalogo/HD1141.jpeg
+ create mode 100644 catalogo/HD1212.jpeg
+ create mode 100644 catalogo/HD1258.jpeg
+ create mode 100644 catalogo/HD1259.jpeg
+ create mode 100644 catalogo/HD1311.jpeg
+ create mode 100644 catalogo/HD1353.jpeg
+ create mode 100644 catalogo/HD1376.jpeg
+ create mode 100644 catalogo/HD1378.jpeg
+ create mode 100644 catalogo/HD1399.jpeg
+ create mode 100644 catalogo/HD1400.jpeg
+ create mode 100644 catalogo/HD1458.jpeg
+
+C:\Users\COLOMBOFILIA\excelencia>git push
+Enumerating objects: 23, done.
+Counting objects: 100% (23/23), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (18/18), done.
+Writing objects: 100% (18/18), 3.02 MiB | 1.38 MiB/s, done.
+Total 18 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/welding30001994/excelencia-oficial.git
+   c01f3e8..97a43f0  main -> main
+
+C:\Users\COLOMBOFILIA\excelencia>git add .
+
+C:\Users\COLOMBOFILIA\excelencia>git commit -m "Primer commit"
+[main 03eef22] Primer commit
+ 30 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 catalogo/40103553077.jpeg
+ create mode 100644 catalogo/64102542177.jpeg
+ create mode 100644 catalogo/64710917933.jpeg
+ create mode 100644 catalogo/69032682852.jpeg
+ create mode 100644 catalogo/69274336122.jpeg
+ create mode 100644 catalogo/69313484106.jpeg
+ create mode 100644 catalogo/69313885975.jpeg
+ create mode 100644 catalogo/HD185.jpeg
+ create mode 100644 catalogo/HD2401.jpeg
+ create mode 100644 catalogo/HD2481.jpeg
+ create mode 100644 catalogo/HD2484.jpeg
+ create mode 100644 catalogo/HD3580.jpeg
+ create mode 100644 catalogo/HD3689.jpeg
+ create mode 100644 catalogo/HD3691.jpeg
+ create mode 100644 catalogo/HD3956.jpeg
+ create mode 100644 catalogo/HD3958.jpeg
+ create mode 100644 catalogo/HD4035.jpeg
+ create mode 100644 catalogo/HD4107.jpeg
+ create mode 100644 catalogo/HD4109.jpeg
+ create mode 100644 catalogo/HD4630.jpeg
+ create mode 100644 catalogo/HD583.jpeg
+ create mode 100644 catalogo/HD602.jpeg
+ create mode 100644 catalogo/HD606.jpeg
+ create mode 100644 catalogo/HD611.jpeg
+ create mode 100644 catalogo/HD619.jpeg
+ create mode 100644 catalogo/HD635.jpeg
+ create mode 100644 catalogo/HD6931.jpeg
+
+C:\Users\COLOMBOFILIA\excelencia>git push
+Enumerating objects: 35, done.
+Counting objects: 100% (35/35), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (30/30), done.
+Writing objects: 100% (30/30), 3.73 MiB | 1.60 MiB/s, done.
+Total 30 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/welding30001994/excelencia-oficial.git
+   97a43f0..03eef22  main -> main
+
+C:\Users\COLOMBOFILIA\excelencia>git add .
+
+C:\Users\COLOMBOFILIA\excelencia>git commit -m "Primer commit"
+[main fed557e] Primer commit
+ 18 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 catalogo/693614670779.jpeg
+ create mode 100644 catalogo/HD02.jpeg
+ create mode 100644 catalogo/HD2425.jpeg
+ create mode 100644 catalogo/HD3800.jpeg
+ create mode 100644 catalogo/HD3802.jpeg
+ create mode 100644 catalogo/HD4211.jpeg
+ create mode 100644 catalogo/HD4216.jpeg
+ create mode 100644 catalogo/HD4538.jpeg
+ create mode 100644 catalogo/HD4540.jpeg
+ create mode 100644 catalogo/HD4542.jpeg
+ create mode 100644 catalogo/HD615.jpeg
+ create mode 100644 catalogo/HD616.jpeg
+ create mode 100644 catalogo/HD620.jpeg
+ create mode 100644 catalogo/HD621.jpeg
+ create mode 100644 catalogo/HD630.jpeg
+ create mode 100644 catalogo/HD631.jpeg
+ create mode 100644 catalogo/HD884.jpeg
+
+C:\Users\COLOMBOFILIA\excelencia>git push
+Enumerating objects: 24, done.
+Counting objects: 100% (24/24), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (21/21), done.
+Writing objects: 100% (21/21), 2.76 MiB | 1.32 MiB/s, done.
+Total 21 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/welding30001994/excelencia-oficial.git
+   03eef22..fed557e  main -> main
+
+C:\Users\COLOMBOFILIA\excelencia>^A
